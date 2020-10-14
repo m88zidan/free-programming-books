@@ -1,4 +1,4 @@
-﻿### Index
+### Index
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
@@ -14,6 +14,8 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
 * [Deep Learning](#deep-learning)
+* [Docker](#docker)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
@@ -23,10 +25,12 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [jQuery](#jquery)
+  * [NodeJS](#nodejs)
   * [React](#react)
   * [Redux](#redux)
   * [Sails.js](#sailsjs)
   * [Vue.js](#vuejs)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
@@ -44,6 +48,7 @@
 * [Ruby](#ruby)
 * [Sails.js](#sailsjs)
 * [Scala](#scala)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [SQL](#sql)
 * [Swift](#swift)
@@ -149,7 +154,9 @@
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Data Cleaning by Rachael Tatman at Kaggle](https://www.kaggle.com/learn/data-cleaning)
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+* [Data Visualization by Alexis Cook at Kaggle](https://www.kaggle.com/learn/data-visualization)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
@@ -171,6 +178,18 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
+
+
+### Docker
+
+* [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm) - TutorialsPoint
+* [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - FreeCodeCamp
+* [Learn Docker, Container Runtimes, Builders and Registries](https://www.katacoda.com/courses/container-runtimes) - Katacoda
+
+
+### Game Development
+
+* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals)(Unity Learn)
 
 
 ### Git
@@ -208,6 +227,7 @@
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](http://cs75.tv/2010/fall/)
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
+* [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
@@ -266,6 +286,11 @@
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
 
+#### NodeJS
+
+* [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+
+
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
@@ -276,14 +301,22 @@
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 
-### Sails.Js
+#### Sails.Js
 
-* [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
+* [Develop web apps in free-programming-playgrounds.md.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
 
 
-### Vue.js
+#### Vue.js
 
+* [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
+* [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
+* [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
+
+### Kubernetes
+
+* [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katacoda
 
 
 ### Linux
@@ -394,6 +427,8 @@
 * [Python Beginners-Intermediate Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Course](http://www.python-course.eu)
 * [Python Django Basics Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
+* [Python Flask Framework Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/flask_overview.htm) (TutorialsPoint)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 
@@ -425,6 +460,11 @@
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+
+
+### Security
+
+* [Ethical Hacking](https://www.hacker101.com/videos) -(Hacker101)
 
 
 ### Software Engineering
